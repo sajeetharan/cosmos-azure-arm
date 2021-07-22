@@ -60,7 +60,7 @@
         "apiProperties": {
           "serverVersion": "3.6"
         },
-        "enableFreeTier": true
+        "enableFreeTier": false
       },
       "tags": {
         "hidden-cosmos-mmspecial": "",
